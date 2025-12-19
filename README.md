@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on data analysis projects, open-source analytics tools, and real-world case studies  
 - 🤔 I’m looking for help with optimizing complex queries, large-scale data modeling, and performance tuning  
 - 💬 Ask me about SQL, data visualization, business intelligence, and turning data into insights  
-- 📫 How to reach me: asees.dar@gmail.com | linkedin.com/in/aseela-d-s  
+- 📫 How to reach me: asees.dar@gmail.com | www.linkedin.com/in/aseela-d-s-b1b14930b
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I enjoy breaking down complex problems into simple, data-driven stories
 
