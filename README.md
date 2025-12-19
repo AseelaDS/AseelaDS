@@ -1,4 +1,4 @@
-## Hi👋I’m **Aseela D S**, a Data Analyst and Power BI Specialist with experience turning complex business data into actionable insights through analytics, dashboards, and reporting automation.
+# Hi👋I’m **Aseela D S**, a Data Analyst and Power BI Specialist with experience turning complex business data into actionable insights through analytics, dashboards, and reporting automation.
 
 -  I’m currently working on SQL and Power BI projects and automated reporting solutions, while continuously improving data modeling and performance optimization skills.
 - 🌱 I’m currently learning advanced analytics techniques, scalable data modeling, and cloud-based data solutions  
